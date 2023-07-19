@@ -1901,7 +1901,9 @@ body:after {
     text-align: center;
     -webkit-transition: .3s all ease-in-out;
     -o-transition: .3s all ease-in-out;
-    transition: .3s all ease-in-out; }
+    transition: .3s all ease-in-out; 
+    bottom: 35px;
+  }
   .mouse .mouse-wheel {
     height: 4px;
     margin: 2px auto 0;
