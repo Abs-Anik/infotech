@@ -126,6 +126,16 @@ body:after {
     font-weight: 500 !important;
   }
 
+  .about-section{
+    /* padding: 5em !important; */
+  }
+
+  /* .custom-nav-bg{
+    background-color: #999999;
+  } */
+
+  
+
 .form-control {
   height: 43px;
   border-radius: 30px;
@@ -663,7 +673,7 @@ body:after {
     background: #f8f9fa; }
     @media (max-width: 991.98px) {
       .circle-bg:after {
-        bottom: -22px;
+        bottom: -40px;
         right: -10px; } }
 
 .site-block-subscribe .btn {
@@ -708,7 +718,12 @@ body:after {
   @media (min-width: 992px) {
     .site-blocks-vs .bg-image {
       padding-top: 5em;
-      padding-bottom: 5em; } }
+      padding-bottom: 5em; } 
+    /* .custom-headline{
+      margin-top: 14rem!important;
+    } */
+    
+    }
 
 .site-blocks-vs .image {
   width: 80px;
